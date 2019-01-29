@@ -1,0 +1,9 @@
+<snippet>
+	<description>Macro Proc</description>
+	<content><![CDATA[macro ${1:macroName} (${2:extValue})
+
+	${0:/* code */}
+end; //macro $1]]></content>
+	<tabTrigger>macro</tabTrigger>
+	<scope>source.mac</scope>
+</snippet>

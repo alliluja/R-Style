@@ -1,0 +1,52 @@
+{
+	"name": "rsl",
+	"displayName": "RSL",
+	"description": "R-Style Language support",
+	"version": "0.0.4",
+	"publisher": "VeniaminRakov",
+	"engines": {
+		"vscode": "^1.25.0"
+	},
+	"categories": [
+		"Programming Languages",
+		"Snippets"
+	],
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alliluja/sublime/tree/master/VSCode"
+	},
+	"contributes": {
+		"languages": [
+			{
+				"id": "rsl",
+				"aliases": [
+					"RSL Macro",
+					"rsl"
+				],
+				"extensions": [
+					".mac"
+				],
+				"configuration": "./language-configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "rsl",
+				"scopeName": "source.mac",
+				"path": "./syntaxes/rsl.tmLanguage.json"
+			}
+		],
+		"snippets": [
+			{
+				"language": "rsl",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "39b89ed8-b498-43ed-8f14-0fc6967594af",
+		"publisherId": "8c7522ab-24a6-400a-8557-79520de0ac17",
+		"publisherDisplayName": "Veniamin Rakov"
+	}
+}

@@ -1,0 +1,9 @@
+<snippet>
+	<description>For Loop</description>
+	<content><![CDATA[for (${1:loopVar}, ${2:beginExpr}, ${3:endExpr}, ${4:deltaExpr}) 
+
+	${0:/* code */}
+end; //FOR LOOP]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>source.mac</scope>
+</snippet>
