@@ -3,7 +3,7 @@
 ### Preview
 - This is a sample of Monokai theme:
 
-![](https://raw.githubusercontent.com/alliluja/sublime/master/VSCode/Screenshoot.jpg)
+![](https://github.com/alliluja/R-Style/blob/master/Screenshoot.jpg)
 
 [Link to Marketplace](https://marketplace.visualstudio.com/items?itemName=VeniaminRakov.rsl)  
 Update is soon as.
