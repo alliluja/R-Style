@@ -1,11 +1,13 @@
-# Syntax Highlight for RSL Language in VS Code and some Snippets.
+# Подсветка синтаксиса для макросов RSL в Visual Studio Code плюс несколько сниппетов.
 
 ### Preview
-- This is a sample of Monokai theme:
+- Пример подсветки кода для темы Monokai:
 
 ![](https://github.com/alliluja/R-Style/blob/master/Screenshoot.jpg)
 
-[Link to Marketplace](https://marketplace.visualstudio.com/items?itemName=VeniaminRakov.rsl)  
-Update is soon as.
+[Ссылка на маркет](https://marketplace.visualstudio.com/items?itemName=VeniaminRakov.rsl)
 
-**Enjoy**
+[Ссылка на гитхаб](https://github.com/alliluja/R-Style)  
+Обновления по возможности. Постараюсь в скором времени добавить подсказки по Ctrl+Tab и поиск определения по F12 
+
+**Work is hard**
